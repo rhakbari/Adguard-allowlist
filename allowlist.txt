@@ -1,0 +1,2 @@
+*.click.discord.com
+*.de.greenapi.org
